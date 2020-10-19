@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Filipe S. Dias"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ecology, GIS and Bayesian statistics"
   location         : "Lisbon, Portugal"
   email            : 
   uri              :
