@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Research"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
