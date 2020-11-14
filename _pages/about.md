@@ -5,7 +5,7 @@ header:
   image: "/images/miranda.JPG"
 ---
 
-## Who is this guy?**
+## Who is this guy?
 
 I'm an ecologist who specializes in processing and analyzing ecological data. I'm an Assistant Researcher at CIBIO, currently investigating how ecological patterns and processes change across scales in river networks using Bayesian methods. I'm also a Biodiversity and Ecosystem Services consultant for ANP/WWF Portugal.
 
