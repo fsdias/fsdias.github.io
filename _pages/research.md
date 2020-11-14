@@ -32,7 +32,7 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 Bugalho, Miguel N., **Filipe S. Dias**, and Rui Barreira. “Incêndios Rurais Em Portugal: Até Quando Deixaremos a Paisagem Arder?” Lisboa, Portugal: WWF Mediterrâneo (WWF MED)/Centro de Ecologia Aplicada Prof. Baeta Neves do Instituto Superior de Agronomia (CEABN/ISA), 2017.
 
 
-Branco, Orlando., Miguel Nuno Bugalho, Luís Neves Silva, Rui Barreira, Pedro Vaz, and **Filipe S. Dias**. “Hotspot Areas for Biodiversity and Ecosystem Services in Montado.” Lisbon: WWF Mediterranean – Portugal/Centre for Applied Ecology Prof. Baeta Neves(CEABN), 2010.
+Branco, Orlando, Miguel Nuno Bugalho, Luís Neves Silva, Rui Barreira, Pedro Vaz, and **Filipe S. Dias**. “Hotspot Areas for Biodiversity and Ecosystem Services in Montado.” Lisbon: WWF Mediterranean – Portugal/Centre for Applied Ecology Prof. Baeta Neves(CEABN), 2010.
 
 
 
