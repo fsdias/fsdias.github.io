@@ -5,10 +5,44 @@ header:
   image: "/images/miranda.JPG"
 ---
 
+##Who is this guy?
+
 I'm an ecologist who specializes in processing and analyzing ecological data. I'm an Assistant Researcher at CIBIO, currently investigating how ecological patterns and processes change across scales in river networks using Bayesian methods. I'm also a Biodiversity and Ecosystem Services consultant for ANP/WWF Portugal.
 
 Before that, I worked at CEABN, where I analyzed the effectiveness of Forest Stewardship Council (FSC) certification and Payments for Ecosystem Services (PES) in cork oak woodlands.
 
-In the past, I collaborated on several projects totally unrelated to what I was doing. The most recent ones were on chimpanzee conservation in Guinea (long story), understanding drivers of land-use change (even longer story), and developing methods for analyzing historical collections (don't ask). What can I say? My scientific life is not dull.
+I regularly collaborate on projects that have very little to do with my main research areas. What can I say? I like to keep things interesting. My most recent side projects were on chimpanzee conservation in Guinea (long story), understanding drivers of land-use change (even longer story), and developing methods for analyzing historical collections (don't ask). 
 
 In my spare time, I enjoy working out, trekking, and bird watching.
+
+
+**Employment history**
+
+January 2019 - ?   **Assistant Researcher** at Centro de Investigação em Biodiversidade e Recursos Genéticos (CIBIO-InBIO)
+
+July 2016 – September 2018  **Postdoctoral fellow** at Centro de Ecologia Aplicada “Prof. Baeta Neves”/Instituto Superior de Agronomia
+
+2011 – ? Biodiversity and Ecosystem Services consultant at Associação Natureza Portugal/WWF Portugal
+
+2008 – 2009	 Research assistant at Faculty of Sciences of the University of Lisbon
+
+
+**Education**
+
+2011 – 2015 PhD Studient at Centro de Ecologia Aplicada “Prof. Baeta Neves”, Instituto Superior de Agronomia, Universidade de Lisboa
+
+2007 – 2008 - MSc in Conservation Biology at the Faculty of Sciences of the University of Lisbon
+
+2003 - 2007 - Degree in Environmental Biology at the Faculty of Sciences of the University of Lisbon
+
+
+**Student supervisions*
+
+Berta Briñas García, Erasmus Mundus MSc in Mediterranean Forestry and Natural Resources Management with Doctor Miguel N. Bugalho (CEABN/ISA). Thesis title: "Mapping and identification of hotspots for biodiversity and ecosystem services in cork oak woodlands in Portugal."
+
+
+**Invited lectures**
+
+2012 - “HABEaS WebGIS: Practical applications” during the course “Evaluating ecosystem services for decision-making” in Instituto Superior Técnico,  taught by Greg Verutes, Emily Mckenzie and Stacy Wolny from the Natural Capital Project
+
+2014 - “QGIS/Processing – How to use R in QGIS?”, University of Évora
