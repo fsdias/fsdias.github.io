@@ -2,7 +2,7 @@
 title: "Research"
 permalink: /research/
 header:
-  image: "/images/miranda.jpg"
+  image: "/images/miranda.JPG"
 ---
 
 **Published papers**
