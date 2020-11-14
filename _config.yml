@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filipe S. Dias"
+title                    : "Filipe S. Dias, PhD"
 title_separator          : "-"
-name                     : "Filipe S. Dias"
+name                     : "Filipe S. Dias, PhD"
 description              : "Notebook"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
