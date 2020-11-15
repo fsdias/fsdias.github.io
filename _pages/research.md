@@ -28,7 +28,7 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 **Thesis**
 
-**Dias, Filipe S**. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link] (https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
+**Dias, Filipe S**. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link](https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
 
 **Dias, Filipe S**. “Multi-Scale Analysis of Carnivores’ Road Mortality Patterns in Highways: A Case Study with the Stone Marten and the Common Genet.” Faculdade de Ciências da Universidade de Lisboa, 2008. MsC Thesis
 
