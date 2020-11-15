@@ -7,7 +7,7 @@ header:
 
 ## Who is this guy?
 
-I'm an ecologist who specializes in processing and analyzing ecological data. I'm an Assistant Researcher at [CIBIO](www.cibio.up.pt)), currently investigating how ecological patterns and processes change across scales in river networks using Bayesian methods. I'm also a Biodiversity and Ecosystem Services consultant for [ANP/WWF Portugal](www.wwf.pt).
+I'm an ecologist who specializes in processing and analyzing ecological data. I'm an Assistant Researcher at [CIBIO](www.cibio.up.pt), currently investigating how ecological patterns and processes change across scales in river networks using Bayesian methods. I'm also a Biodiversity and Ecosystem Services consultant for [ANP/WWF Portugal](www.wwf.pt).
 
 Before that, I worked at [CEABN](http://www.isa.ulisboa.pt/ceabn/), where I analyzed the effectiveness of Forest Stewardship Council ([FSC](www.fsc.org) certification and Payments for Ecosystem Services (PES) in cork oak woodlands.
 
