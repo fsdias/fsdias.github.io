@@ -26,6 +26,12 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 **Dias, Filipe S.**, Miguel N. Bugalho, J. Orestes Cerdeira, and M. João Martins. “Is Forest Certification Targeting Areas of High Biodiversity in Cork Oak Savannas?” Biodiversity and Conservation 22 (November 2013): 93–112. [https://doi.org/10.1007/s10531-012-0401-4](https://doi.org/10.1007/s10531-012-0401-4)
 
+**Thesis**
+
+Dias, Filipe S. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link] (https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
+
+Dias, Filipe S. “Multi-Scale Analysis of Carnivores’ Road Mortality Patterns in Highways: A Case Study with the Stone Marten and the Common Genet.” Faculdade de Ciências da Universidade de Lisboa, 2008. MsC Thesis
+
 
 **Reports**
 
