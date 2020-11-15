@@ -7,9 +7,9 @@ header:
 
 **Published papers**
 
-Romeiras, Maria M, Mark Carine, Maria Cristina Duarte, Sílvia Catarino, **Filipe S. Dias**, and Luís Borda-de-Água. “Bayesian Methods to Analyze Historical Collections in Time and Space: A Case Study Using Cabo Verde Endemic Flora.” Frontiers in Plant Science 11, no. 278 (2020): 12.
+Romeiras, Maria M, Mark Carine, Maria Cristina Duarte, Sílvia Catarino, **Filipe S. Dias**, and Luís Borda-de-Água. “Bayesian Methods to Analyze Historical Collections in Time and Space: A Case Study Using Cabo Verde Endemic Flora.” Frontiers in Plant Science 11, no. 278 (2020): 12.[https://doi.org/10.3389/fpls.2020.00278](https://doi.org/10.3389/fpls.2020.00278)
 
-**Dias, Filipe S.**, José F. C. Wenceslau, Tiago A. Marques, and David L. Miller. “Density and Distribution of Western Chimpanzees around a Bauxite Deposit in the Boé Sector, Guinea-Bissau.” American Journal of Primatology 81, no. 9 (2019): e23047. https://doi.org/10.1002/ajp.23047.
+**Dias, Filipe S.**, José F. C. Wenceslau, Tiago A. Marques, and David L. Miller. “Density and Distribution of Western Chimpanzees around a Bauxite Deposit in the Boé Sector, Guinea-Bissau.” American Journal of Primatology 81, no. 9 (2019): e23047. [https://doi.org/10.1002/ajp.23047].(https://doi.org/10.1002/ajp.23047)
 
 Arsénio, Pedro, Patricia María Rodríguez-González, Ivan Bernez, **Filipe S. Dias**, Miguel Nunes Bugalho, and Simon Dufour. “Riparian Vegetation Restoration: Does Social Perception Reflect Ecological Value?: Social Perception of Riparian Vegetation Restoration.” River Research and Applications, August 20, 2019. https://doi.org/10.1002/rra.3514.
 
