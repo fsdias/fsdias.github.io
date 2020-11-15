@@ -18,19 +18,19 @@ In my spare time, I enjoy working out, trekking, and bird watching.
 
 ## Employment history
 
-January 2019 - ?   **Assistant Researcher** at Centro de Investigação em Biodiversidade e Recursos Genéticos (CIBIO-InBIO)
+January 2019 - ?   **Assistant Researcher** at Centro de Investigação em Biodiversidade e Recursos Genéticos ([CIBIO-InBIO](https://cibio.up.pt/))
 
-July 2016 – September 2018  **Postdoctoral fellow** at Centro de Ecologia Aplicada “Prof. Baeta Neves”/Instituto Superior de Agronomia
+July 2016 – September 2018  **Postdoctoral fellow** at Centro de Ecologia Aplicada “Prof. Baeta Neves”/Instituto Superior de Agronomia ([CEABN](http://www.isa.ulisboa.pt/ceabn/content/1/80/homepage))
 
-2011 – ? Biodiversity and Ecosystem Services consultant at Associação Natureza Portugal/WWF Portugal
+2011 – ? Biodiversity and Ecosystem Services consultant at [Associação Natureza Portugal/WWF Portugal](http://www.wwf.pt)
 
-2008 – 2009	 Research assistant at Faculty of Sciences of the University of Lisbon
+2008 – 2009	 Research assistant at Faculty of Sciences of the University of Lisbon ([FCUL](www.fc.ul.pt))
 
 ---
 
 ## Education
 
-2011 – 2015 PhD Studient at Centro de Ecologia Aplicada “Prof. Baeta Neves”, Instituto Superior de Agronomia, Universidade de Lisboa
+2011 – 2015 PhD Studient at Centro de Ecologia Aplicada “Prof. Baeta Neves”, Instituto Superior de Agronomia, Universidade de Lisboa ([ISA](www.isa.ulisboa.pt))
 
 2007 – 2008 - MSc in Conservation Biology at the Faculty of Sciences of the University of Lisbon
 
@@ -40,7 +40,7 @@ July 2016 – September 2018  **Postdoctoral fellow** at Centro de Ecologia Apli
 
 ## Student supervisions
 
-Berta Briñas García, Erasmus Mundus MSc in Mediterranean Forestry and Natural Resources Management with Doctor Miguel N. Bugalho (CEABN/ISA). Thesis title: "Mapping and identification of hotspots for biodiversity and ecosystem services in cork oak woodlands in Portugal."
+Berta Briñas García, Erasmus Mundus MSc in Mediterranean Forestry and Natural Resources Management with Doctor [Miguel N. Bugalho](https://scholar.google.pt/citations?hl=en&user=HoiEreEAAAAJ&view_op=list_works&sortby=pubdate) (CEABN/ISA). Thesis title: "Mapping and identification of hotspots for biodiversity and ecosystem services in cork oak woodlands in Portugal."
 
 ---
 
