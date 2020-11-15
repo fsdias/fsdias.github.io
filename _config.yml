@@ -88,7 +88,7 @@ author:
   avatar           : "/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ecology, GIS and Bayesian statistics"
   location         : "Lisbon, Portugal"
-  email            : 
+  email            : "fsdias@gmx.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
