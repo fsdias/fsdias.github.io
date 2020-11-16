@@ -8,7 +8,7 @@ excerpt: "GIS, River networks, Network distance"
 mathjax: "true"
 ---
 
-A while ago, I had to calculate the network distance between vegetation samples collected in different river network locations. There are some tools in QGIS and GRASS GIS that can perform these calculations. Still, I decided to use R because it allows me to format the output structure.
+A while ago, I had to calculate network distances between vegetation samples collected in different river network locations. There are some tools in QGIS and GRASS GIS that can perform these calculations. Still, I decided to use R because it allows me to format the output structure.
 
 We need two shapefiles to start, one with the river network and another with the vegetation samples' point location. Important notes about the shapefiles:
 
@@ -83,6 +83,7 @@ In the last step we create a distances matrix and convert it into a data.frame.
   net_distances<-filter(net_distances,item1!=item2)
 ```
 
-Here's the result:
+Here's the result.
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/net_distance/net_dist_table.png" alt="linearly separable data">
 
