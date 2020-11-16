@@ -17,7 +17,7 @@ We need two shapefiles to start, one with the river network and another with the
 
 In this post we will be working with "rivers.shp" and "points.shp". Map below.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/net_dist/river_map.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/net_dist/river_map.png">
 
 
 We start by loading the following packages:
@@ -85,5 +85,5 @@ In the last step we create a distances matrix and convert it into a data.frame.
 
 Here's the result:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/net_dist/net_dist_table.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/net_dist/net_dist_table.png">
 
