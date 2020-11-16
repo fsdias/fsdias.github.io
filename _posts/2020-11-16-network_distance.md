@@ -1,5 +1,5 @@
 ---
-title: "Calculate network distance in R"
+title: "Calculate network distances in R"
 date: 2018-01-28
 tags: [gis,r]
 header:
