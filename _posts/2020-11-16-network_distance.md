@@ -17,7 +17,7 @@ We need two shapefiles to start, one with the river network and another with the
 
 In this post we will be working with "rivers.shp" and "points.shp". Map below.
 
-![alt text](https://github.com/fsdias/fsdias.github.io/blob/master/images/net_distance/river_map.png)
+![alt text2](https://github.com/fsdias/fsdias.github.io/blob/master/images/net_distance/river_map.png "Optional title")
 
 
 We start by loading the following packages:
