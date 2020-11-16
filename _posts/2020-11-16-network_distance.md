@@ -87,3 +87,8 @@ Here's the result.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/net_distance/net_dist_table.png" alt="linearly separable data">
 
+
+There you have it. In a future post I will explain how to calculate flow distances.
+
+**Filipe Dias**
+
