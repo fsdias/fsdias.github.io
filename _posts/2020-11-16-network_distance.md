@@ -1,9 +1,9 @@
 ---
 title: "Calculate network distances in R"
-date: 2018-01-28
+date: 2020-11-16
 tags: [gis,r]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/net_distance/banner_net_dist.png"
 excerpt: "GIS, River networks, Network distance"
 mathjax: "true"
 ---
