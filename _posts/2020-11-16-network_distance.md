@@ -84,6 +84,5 @@ In the last step we create a distances matrix and convert it into a data.frame.
 ```
 
 Here's the result:
-
-![alt text](https://github.com/fsdias/fsdias.github.io/blob/master/images/net_distance/net_dist_table.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/net_distance/net_dist_table.png" alt="linearly separable data">
 
