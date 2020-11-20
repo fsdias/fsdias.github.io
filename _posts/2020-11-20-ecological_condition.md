@@ -11,7 +11,7 @@ mathjax: "true"
 
 Over the next few weeks/months, I will be revisiting my published papers and repeating the statistical analysis with Bayesian methods. I'm still learning Bayesian statistics so do not assume everything I do is correct. If you find any errors, please let me know.
 
-I'm going to start with the following paper. You can get the data for reproducing this analysis [here](https://github.com/fsdias/blog_data/tree/main/ecol_cond).
+I'm going to start with the following paper. You can get the data for this analysis [here](https://github.com/fsdias/blog_data/tree/main/ecol_cond).
 
 Dias, Filipe S., Miguel N. Bugalho, Patricia M. Rodríguez-González, António Albuquerque, and J. Orestes Cerdeira. “Effects of Forest Certification on the Ecological Condition of Mediterranean Streams.” Edited by Angela Strecker. Journal of Applied Ecology 52, no. 1 (February 2015): 190–98. [https://doi.org/10.1111/1365-2664.12358](https://doi.org/10.1111/1365-2664.12358)
 
