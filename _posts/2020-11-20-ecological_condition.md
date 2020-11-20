@@ -20,7 +20,7 @@ In this paper, we assessed the effects of Forest Stewardship Council (FSC) certi
 **Exploratory data analysis**
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/ecol_cond/study_area.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/study_area.png" alt="linearly separable data">
 
 This figure shows the location of sample sites. We visited streams located in six FSC certified estates. Three estates had been certified for three years, and the three other estates for five years. We also visited rivers in two least-disturbed regions for reference.
 
