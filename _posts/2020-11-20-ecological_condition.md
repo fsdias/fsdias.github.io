@@ -26,7 +26,8 @@ This figure shows the location of sample sites. We visited streams located in si
 
 We start by plotting SVAP scores against management regime, that is 1) no certification, 2) three years of certification, 3) five years of certification and 4) low disturbance.
 
-LINK
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/svap_boxplot.png" alt="linearly separable data">
+
 
 SVAP scores in stream reaches with five years of certification seem higher than those on non-certified areas, but there's some overlap. Stream reaches with three years of certification seem to have similar SVAP scores to those of non-certified reaches.
 
@@ -209,7 +210,8 @@ We start by plotting predicted SVAP scores against observed SVAP scores using a 
 ppc_dens_overlay(svap,svap_pred[1:1000,])
 ```
 
-LINK
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/res_pred_vs_obs.png" alt="linearly separable data">
+
 
 
 But we should dig deeper by plotting residuals and predicted values against observed values. Remember that both residuals and predicted values have a distribution. Yeah, welcome to Bayesian stats. 
