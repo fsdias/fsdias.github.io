@@ -210,7 +210,7 @@ We start by plotting predicted SVAP scores against observed SVAP scores using a 
 ppc_dens_overlay(svap,svap_pred[1:1000,])
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/res_pred_vs_obs.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/density_plot.png" alt="linearly separable data">
 
 
 
@@ -223,8 +223,9 @@ ppc_intervals(svap_pred_mean,svap_pred,svap)+labs(y="Predicted SVAP",x="Observed
 ncol=2)
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/res_pred_vs_obs.png" alt="linearly separable data">
 
-LINK
+
 
 The result is not perfect, but I don't think it's terrible either. The model does seem to overestimate lower SVAP scores and underestimate higher ones. Still, if we look at the plot on the left, we see the residuals' distribution seems somewhat centered around zero.
 
