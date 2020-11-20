@@ -3,7 +3,7 @@ title: "Effects of forest certification on the ecological condition of streams -
 date: 2020-11-20
 tags: [Bayesian statistics]
 header:
-  image: "/images/eco_cond/banner_net_dist.png"
+  image: "/images/eco_cond/banner_eco_cond.JPG"
 excerpt: "Bayesian statistics, Rivers, Ecological condition"
 mathjax: "true"
 ---
