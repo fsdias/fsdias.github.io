@@ -223,6 +223,7 @@ ppc_intervals(svap_pred_mean,svap_pred,svap)+labs(y="Predicted SVAP",x="Observed
 ncol=2)
 ```
 
+
 LINK
 
 The result is not perfect, but I don't think it's terrible either. The model does seem to overestimate lower SVAP scores and underestimate higher ones. Still, if we look at the plot on the left, we see the residuals' distribution seems somewhat centered around zero.
@@ -237,6 +238,9 @@ ppc_intervals_grouped(res_mean,res,svap,group=regime_id)+labs(y="Residuals",x="O
 ncol=2)
 ```
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/res_pred_vs_regime.png" alt="linearly separable data">
+
+
 We see the fit is worse for regime_id=2, which corresponds to three years of certification. We repeat the plot but with "estate_id."
 
 ```r
@@ -245,6 +249,10 @@ ppc_intervals_grouped(svap_pred_mean,svap_pred,svap,group=estate_id)+labs(y="Pre
 ppc_intervals_grouped(res_mean,res,svap,group=estate_id)+labs(y="Residuals",x="Observed SVAP ")+geom_abline(slope=0)+legend_none(),
 ncol=2)
 ```
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/res_pred_vs_estate.png" alt="linearly separable data">
+
+
 
 The fit is not great for estates 1, 7, and 8. Note that 7 and 8 correspond to reference regions. We found some stream reaches in worse condition than we would expect in the least-disturbed areas.
 
@@ -257,6 +265,9 @@ To answer this question, we analyze the posterior difference between "mu_regime"
 x<-as.matrix(model,pars=c("mu_r3_2","mu_r3_1","mu_r4_3"))
 mcmc_hist(x)+ggtitle(c("5 years vs 3 years | 5 years vs no certification | 5 years vs Reference sites"))
 ```
+
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/eco_cond/posterior_diff.png" alt="linearly separable data">
 
 
 **Conclusion**
