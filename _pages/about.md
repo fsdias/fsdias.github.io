@@ -30,7 +30,7 @@ July 2016 – September 2018  **Postdoctoral fellow** at Centro de Ecologia Apli
 
 ## Education
 
-2011 – 2015 PhD Studient at Centro de Ecologia Aplicada “Prof. Baeta Neves”, Instituto Superior de Agronomia, Universidade de Lisboa ([ISA](www.isa.ulisboa.pt))
+2011 – 2015 PhD Student at Centro de Ecologia Aplicada “Prof. Baeta Neves”, Instituto Superior de Agronomia, Universidade de Lisboa ([ISA](www.isa.ulisboa.pt))
 
 2007 – 2008 - MSc in Conservation Biology at the Faculty of Sciences of the University of Lisbon
 
@@ -46,6 +46,8 @@ Berta Briñas García, Erasmus Mundus MSc in Mediterranean Forestry and Natural 
 
 ## Invited lectures
 
+2014 - “QGIS/Processing – How to use R in QGIS?”, University of Évora
+
 2012 - “HABEaS WebGIS: Practical applications” during the course “Evaluating ecosystem services for decision-making” in Instituto Superior Técnico,  taught by Greg Verutes, Emily Mckenzie and Stacy Wolny from the Natural Capital Project
 
-2014 - “QGIS/Processing – How to use R in QGIS?”, University of Évora
+
