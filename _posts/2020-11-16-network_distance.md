@@ -1,10 +1,10 @@
 ---
 title: "Calculate network distances in R"
 date: 2020-11-16
-tags: [gis,r,riverscale]
+tags: [gis,r,Riverscale]
 header:
   image: "/images/net_distance/banner_net_dist.png"
-excerpt: "GIS, River networks, Network distance,riverscale"
+excerpt: "GIS, River networks, Network distance,Riverscale"
 mathjax: "true"
 ---
 
