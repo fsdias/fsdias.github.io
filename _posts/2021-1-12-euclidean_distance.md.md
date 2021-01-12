@@ -1,6 +1,6 @@
 ---
 title: "Calculate euclidean distances in R"
-date: 2020-11-16
+date: 2021-1-12
 tags: [gis,r,Riverscale]
 header:
   image: "/images/euc_dist/euc_dist.png"
