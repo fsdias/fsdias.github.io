@@ -3,7 +3,7 @@ title: "Calculate euclidean distances in R"
 date: 2021-1-12
 tags: [gis,r,Riverscale]
 header:
-  image: "/images/euc_dist/euc_dist.png"
+  image: "images/net_distance/banner_net_dist.png"
 excerpt: "GIS, River networks, Euclidean distance,Riverscale"
 mathjax: "true"
 ---
