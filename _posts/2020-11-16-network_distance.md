@@ -13,7 +13,8 @@ This post will explain how to calculate network distances between riparian veget
 We need two shapefiles to start, one with the river network and another with the vegetation samples' point location. Important notes about the shapefiles:
 
 * the river shapefile can't have any topological problems. I recommend that you use QGIS and run the "Fix geometries" algorithm to fix any issues. It's available in the Processing toolbox.
-* the points shapefile needs to have at least the following columns, one with a unique identifier (e.g., ID), a column with the "x" coordinates, and another one with the "y" coordinates. Use a metric coordinate reference system, do not use WGS84 (EPSG 4326).
+* the points shapefile needs to have at least the following columns: id) a unique identifier, x) a column with the "x" coordinates, y) a column with "y" coordinates. 
+* Use a metric coordinate reference system. Do not use WGS84 (EPSG 4326).
 
 In this post we will be working with "rivers.shp" and "points.shp"([download](https://github.com/fsdias/blog_data/tree/main/network_distance)). Map below.
 
