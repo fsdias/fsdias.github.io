@@ -1,5 +1,5 @@
 ---
-title: "Calculate euclidean distances in R"
+title: "Calculate Euclidean distances in R"
 date: 2021-1-12
 tags: [gis,r,Riverscale]
 header:
