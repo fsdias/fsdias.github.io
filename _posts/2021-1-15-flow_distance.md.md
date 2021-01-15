@@ -21,7 +21,7 @@ Important notes about the shapefiles:
 
 We will be working with "rivers.shp" and "points_flow.shp"([download](https://github.com/fsdias/blog_data/tree/main/flow_dist)). Map below.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/flow_distance/map_flow_distance.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/flow_distance/map_flow_dist.png" alt="linearly separable data">
 
 
 We start by loading the following packages:
@@ -131,3 +131,4 @@ Here's what it looks like.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/flow_distance/flow_dist_table.png" alt="flow paths">
 
+*Filipe Dias
