@@ -8,7 +8,7 @@ excerpt: "GIS, River networks, Network distance,Riverscale"
 mathjax: "true"
 ---
 
-This post will explain how to calculate network distances between riparian vegetation censuses in a river network. There are some tools in QGIS and GRASS GIS that can perform these calculations. Still, I decided to use R because it allows me to format the output structure.
+In this post I will explain how to calculate network distances between riparian vegetation samples in a river network. Network distance measures the distance between two sites along the river network. There are some tools in QGIS and GRASS GIS that can perform these calculations, but I think is R more flexible for this particular task.
 
 We need two shapefiles to start, one with the river network and another with the vegetation samples' point location. Important notes about the shapefiles:
 
