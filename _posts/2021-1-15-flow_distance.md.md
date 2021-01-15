@@ -8,7 +8,7 @@ excerpt: "GIS, River networks, flow distance, Riverscale"
 mathjax: "true"
 ---
 
-So far, I have explained how to calculate network distances and Euclidean distances in a river network. Now, it's time to look at flow distance, which unlike the above distances considers the network's directionality. Flow distance measures the distance between sites that are connected by water flow.
+So far, I have explained how to calculate [network distances](https://fsdias.github.io/network_distance/) and [Euclidean distances](https://fsdias.github.io/euclidean_distance.md/) in a river network. Now, it's time to look at flow distance, which unlike the above distances considers the network's directionality. Flow distance measures the distance between sites that are connected by water flow.
 
 We will be working with two shapefiles, one containing the river network and another the point location of the vegetation censuses. The points shapefile has to have a point located at the river's mouth. The purpose of this point is to identify the location where the water flows to. In the example shapefile, it is identified as "End" in the "id_code" column
 
