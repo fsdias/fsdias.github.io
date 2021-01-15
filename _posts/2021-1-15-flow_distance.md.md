@@ -131,4 +131,4 @@ Here's what it looks like.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/flow_distance/flow_dist_table.png" alt="flow paths">
 
-*Filipe Dias
+**Filipe Dias**
