@@ -8,7 +8,7 @@ excerpt: "GIS, River networks, Euclidean distance,Riverscale"
 mathjax: "true"
 ---
 
-In a previous post, I explained how to calculate network distances using point locations of vegetation censuses in a river network. Now, I'm going to do the same with euclidean distances. Euclidean distance is the straight line distance between two sites.
+In a [previous post](https://fsdias.github.io/network_distance/), I explained how to calculate network distances using point locations of vegetation censuses in a river network. Now, I'm going to do the same with euclidean distances. Euclidean distance is the straight line distance between two sites.
 
 As in the previous post, we will need two shapefiles to start, one with the river network and another with the point location of the vegetation censuses. Important notes about the shapefiles:
 
