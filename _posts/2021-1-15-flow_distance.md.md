@@ -91,7 +91,7 @@ Next, we select paths with two or more points with the following commands:
 list<-list %>% keep(function(x) length(x) > 1) 
 ```
 
-Then. We need to create a table that links the unique identifier "id_code" wih the internal unique identifier that igraph generates for each point. I named the latter "cod_p2n".
+Then, we need to create a table that links the unique identifier "id_code" wih the internal unique identifier that igraph generates for each point. I named the latter "cod_p2n".
 
 ```r
 a<-data.frame(cod_p2n=seq_along(1:length(rivernel[[4]])),x=floor(rivernel[[4]]),y=floor(rivernel[[5]]))
