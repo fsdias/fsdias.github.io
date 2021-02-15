@@ -7,6 +7,8 @@ header:
 
 **Published papers**
 
+Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Miguel N. Bugalho, and Francisco Moreira. “Canopy Cover Loss of Mediterranean Oak Woodlands: Long-Term Effects of Management and Climate.” Ecosystems (2021). Accepted article
+
 Romeiras, Maria M, Mark Carine, Maria Cristina Duarte, Sílvia Catarino, **Filipe S. Dias**, and Luís Borda-de-Água. “Bayesian Methods to Analyze Historical Collections in Time and Space: A Case Study Using Cabo Verde Endemic Flora.” Frontiers in Plant Science 11, no. 278 (2020): 12.[https://doi.org/10.3389/fpls.2020.00278](https://doi.org/10.3389/fpls.2020.00278)
 
 **Dias, Filipe S.**, José F. C. Wenceslau, Tiago A. Marques, and David L. Miller. “Density and Distribution of Western Chimpanzees around a Bauxite Deposit in the Boé Sector, Guinea-Bissau.” American Journal of Primatology 81, no. 9 (2019): e23047. [https://doi.org/10.1002/ajp.23047](https://doi.org/10.1002/ajp.23047)
