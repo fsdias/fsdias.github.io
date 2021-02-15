@@ -21,7 +21,7 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 **Dias, Filipe S.**, David L. Miller, Tiago A. Marques, Joana Marcelino, Maria C. Caldeira, J. Orestes Cerdeira, and Miguel N. Bugalho. “Conservation Zones Promote Oak Regeneration and Shrub Diversity in Certified Mediterranean Oak Woodlands.” Biological Conservation 195 (March 2016): 226–34. [https://doi.org/10.1016/j.biocon.2016.01.009](https://doi.org/10.1016/j.biocon.2016.01.009)
 
 
-**Dias, F. S.**, M N Bugalho, B. Briñas, and J. O. Cerdeira. “Using the High Conservation Value Forest Concept and Pareto Optimization to Identify Areas Maximizing Biodiversity and Ecosystem Services in Cork Oak Landscapes.” Agroforestry Systems, April 19, 2015. [https://doi.org/10.1007/s10457-015-9814-x](https://doi.org/10.1007/s10457-015-9814-x)
+**Dias, Filipe S.**, M N Bugalho, B. Briñas, and J. O. Cerdeira. “Using the High Conservation Value Forest Concept and Pareto Optimization to Identify Areas Maximizing Biodiversity and Ecosystem Services in Cork Oak Landscapes.” Agroforestry Systems, April 19, 2015. [https://doi.org/10.1007/s10457-015-9814-x](https://doi.org/10.1007/s10457-015-9814-x)
 
 **Dias, Filipe S.**, Miguel N. Bugalho, Patricia M. Rodríguez-González, António Albuquerque, and J. Orestes Cerdeira. “Effects of Forest Certification on the Ecological Condition of Mediterranean Streams.” Edited by Angela Strecker. Journal of Applied Ecology 52, no. 1 (February 2015): 190–98. [https://doi.org/10.1111/1365-2664.12358](https://doi.org/10.1111/1365-2664.12358)
 
