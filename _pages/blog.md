@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Blog"
 author_profile: true
 header:
-  image: "/images/montesinho.JPG"
+  image: "/images/banner_blog.jpg"
 ---
 
 
