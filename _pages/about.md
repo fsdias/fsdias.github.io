@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/banner_about.jpg"
+  image: "/images/mertola_banner.jpg"
 ---
 
 ## Who is this guy?
