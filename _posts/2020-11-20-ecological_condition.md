@@ -260,7 +260,7 @@ The fit is not great for estates 1, 7, and 8. Note that 7 and 8 correspond to re
 
 **What's the effect of forest certification on the ecological condition of streams?**
 
-To answer this question, we analyze the posterior difference between "mu_regime" values. The plot on the left shows the difference between the "mu_regime"  corresponding to "five years of certification" and the "mu_regime"  for three years of certification. We see the difference is reliably positive. The same happens when we make a comparison against the "mu_regime" value for "no certification." Interestingly the model does not seem to be able to resolve the difference between "five years of certification"" and "reference sites." However, most of the probability mass is close to zero. This means SVAP scores between these two groups are likely similar.
+To answer this question, we analyze the posterior difference between "mu_regime" values. The plot on the left shows the difference between the "mu_regime"  corresponding to "five years of certification" and the "mu_regime"  for three years of certification. We see the difference is reliably positive. The same happens when compare against the "mu_regime" for "no certification." Interestingly the model does not seem to be able to resolve the difference between "five years of certification"" and "reference sites." However, most of the probability mass is close to zero. This means SVAP scores between these two groups are likely similar.
 
 ```r
 x<-as.matrix(model,pars=c("mu_r3_2","mu_r3_1","mu_r4_3"))
