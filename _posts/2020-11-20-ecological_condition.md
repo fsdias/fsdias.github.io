@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 **Motivation**
 
-Over the next few weeks/months, I will be revisiting my published papers and repeating the statistical analysis with Bayesian methods. I'm still learning Bayesian statistics so do not assume everything I do is correct. If you find any errors, please let me know.
+As a learning exercise, I will be revisiting some of my papers and repeating the statistical analysis with Bayesian methods. I'm still learning Bayesian statistics so do not assume that what I do is correct. If you do find any errors, please let me know.
 
 I'm going to start with the following paper. You can get the data for this analysis [here](https://github.com/fsdias/blog_data/tree/main/ecol_cond).
 
@@ -47,7 +47,7 @@ SVAP ~ Normal(mu,sigma)
 mu = regime[regime_id]+estate[estate_id] + k[obs]
 ```
 
-"regime" represents the effect of management regimes, that is non-certified, 3 years of certification, 5 years of certification or least-disturbed. "estate" represents the effects of the estates and least disturbed regions. "k" is a varying intercept that is estimated in light of geographic distance. The variable "k" accounts for the spatial autocorrelation and was estimated from a Gaussian process in which it is assumed the covariance between any two samples declines exponentially with the squared distance between them.
+"regime" represents the effect of management regimes, that is non-certified, 3 years of certification, 5 years of certification or least-disturbed. "estate" represents the effects of the estates and least disturbed regions. "k" is a varying intercept that is estimated in light of geographic distance. The variable "k" accounts for the spatial autocorrelation and was estimated from a Gaussian process in which we assume the covariance between any two samples declines exponentially with the squared distance between them. Concerning the autocorrelation, I'm following what I read on [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) from Richard McElreath. I got the corresponding Stan code [here](https://vincentarelbundock.github.io/rethinking2/14.html).
 
 In order to fit the model in Stan we we first need to calculate distance matrix for the location of SVAP measurements. The points shapefile is available here.
 
