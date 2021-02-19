@@ -34,7 +34,7 @@ SVAP scores in stream reaches with five years of certification seem higher than 
 
 **Modeling**
 
-Before we start the analysis, we need to consider two potential sources of dependence in the data. Look at the above image and consider inset 3). The SVAP scores inside the estate are probably not independent from the scores outside the estate. Why? Because the samples were collected in the *same* river. We need to consider this dependence. But there's more, SVAP scores in reaches separated by 100 meters are more likely to be similar than those separated by 300 or 400 meters, regardless of FSC certification's effect. We also need to account for this.
+Before we start the analysis, we need to consider two potential sources of dependence in the data. Look at Fig.1 and consider inset 3). The SVAP scores inside the estate are probably not independent from the scores outside the estate. Why? Because the samples were collected in the *same* river. We need to consider this dependence. But there's more, SVAP scores in reaches separated by 100 meters are more likely to be similar than those separated by 300 or 400 meters, regardless of FSC certification's effect. We also need to account for this.
 
 To sum things up, we need to fit a model that 1) allows us to discern the effect of FSC certification on SVAP scores, 2) that considers the dependence caused by surveying reaches in the *same river*, and 3) that considers the dependence caused by geographical proximity (i.e., spatial autocorrelation).
 
