@@ -10,13 +10,12 @@ mathjax: "true"
 
 In a [previous post](https://fsdias.github.io/network_distance/), I explained how to calculate network distances using point locations of vegetation censuses in a river network. Now, I'm going to do the same with euclidean distances. Euclidean distance is the straight line distance between two sites.
 
-As in the previous post, we will need two shapefiles to start, one with the river network and another with the point location of the vegetation censuses. Important notes about the shapefiles:
+We need a shapefile with the point location of the vegetation censuses. Important notes about this shapefile:
 
-* the river shapefile can't have any topological problems. I recommend that you use QGIS and run the "Fix geometries" algorithm to fix any issues. It's available in the Processing toolbox.
-* the points shapefile needs to have at least the following columns: id) a unique identifier, x) a column with the "x" coordinates, y) a column with "y" coordinates. 
+* it has to have at least the following columns: id) a unique identifier, x) a column with the "x" coordinates, y) a column with "y" coordinates. 
 * Use a metric coordinate reference system. Do not use WGS84 (EPSG 4326).
 
-We will be working with "rivers.shp" and "points.shp"([download](https://github.com/fsdias/blog_data/tree/main/network_distance)). Map below.
+Click here to download the shapefile([download](https://github.com/fsdias/blog_data/tree/main/network_distance)). This map shows the location of the points.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/net_distance/river_map.png" alt="linearly separable data">
 
@@ -31,9 +30,8 @@ library(reshape2)
 library(sp)
 ```
 
-and import both shapefiles using the shapefile() function from the "raster" package
+and import the shapefile using the shapefile() function from the "raster" package
 ```r
-river<-shapefile("river.shp")
 points<-shapefile("points.shp")
 ```
 
