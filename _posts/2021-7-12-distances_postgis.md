@@ -1,6 +1,6 @@
 ---
 title: "Distances between polygons with PosGIS and QGIS"
-date: 2021-1-12
+date: 2021-7-12
 tags: [gis,PostGIS,QGIS]
 header:
   image: "images/net_distance/banner_net_dist.png"
