@@ -1,5 +1,5 @@
 ---
-title: "Calculate Euclidean distances in R"
+title: "Distances between polygons with PosGIS and QGIS"
 date: 2021-1-12
 tags: [gis,PostGIS,QGIS]
 header:
