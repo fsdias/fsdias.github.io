@@ -28,6 +28,14 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 **Dias, Filipe S.**, Miguel N. Bugalho, J. Orestes Cerdeira, and M. João Martins. “Is Forest Certification Targeting Areas of High Biodiversity in Cork Oak Savannas?” Biodiversity and Conservation 22 (November 2013): 93–112. [https://doi.org/10.1007/s10531-012-0401-4](https://doi.org/10.1007/s10531-012-0401-4)
 
+
+**Preprints**
+
+**Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “A Hierarchical Bayesian Approach for Modeling Changes in Species Composition.” EcoEvoRxiv. https://doi.org/10.32942/osf.io/sn5jr.
+
+**Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Distance Decay of Community Similarity in River Networks: A Bayesian Approach.” EcoEvoRxiv. https://doi.org/10.32942/osf.io/e7ad2.
+
+
 **Thesis**
 
 **Dias, Filipe S**. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link](https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
