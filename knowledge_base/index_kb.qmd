@@ -1,0 +1,50 @@
+---
+title: Knowledge base
+---
+
+
+## Interesting blogs
+
+[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
+[Notes from a data witch: A data science blog by Danielle Navarro](https://blog.djnavarro.net/)
+
+[Andrea Gabrio's blog and tutorials](https://agabrioblog.onrender.com/post/)
+
+---
+
+## Courses and Tutorials
+
+#### GIS
+[Introduction to PostGIS (ex Boundless)](https://postgis.net/workshops/postgis-intro/)
+
+[Introduction to Spatial Databases with PostGIS and QGIS 3](https://www.udemy.com/course/introduction-to-spatial-databases-with-postgis-and-qgis/)
+
+
+#### Data management
+
+[Data Management with SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/)
+
+[An Ecologist's Introduction to Transitioning into Data Science - SQL Tutorial](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)
+
+[(web) Scraping London Marathon data with {rvest}](https://nrennie.rbind.io/blog/web-scraping-rvest-london-marathon/)
+
+[Exploring visualizations with metal bands data (webscraping + data viz](https://gorinsimon.github.io/posts/metal_viz/metal_viz.html)
+
+#### Statistics
+
+[Statistical population modelling for census support (Bayesian statistics)](https://wpgp.github.io/bottom-up-tutorial/)
+
+---
+
+## Software for making plots and presentations 
+
+[Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+
+[reveal.js](https://revealjs.com/)
+
+---
+
+### Stats software with a GUI
+
+[JASP](https://jasp-stats.org/)
