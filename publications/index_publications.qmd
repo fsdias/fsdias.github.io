@@ -34,16 +34,6 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 ---
 
-## Preprints
-
-**Dias, Filipe S.**, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Human disturbance decreases dominance in riparian plant communities.” EcoEvoRxiv.[https://ecoevorxiv.org/kzdte](https://ecoevorxiv.org/kzdte)
-
-**Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the distance decay of community similarity in river networks using Bayesian methods.” EcoEvoRxiv.[https://ecoevorxiv.org/e7ad2/](https://ecoevorxiv.org/e7ad2/)
-
-**Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “BetaBayes - A Bayesian approach for comparing ecological communities.” EcoEvoRxiv. [https://ecoevorxiv.org/sn5jr/](https://ecoevorxiv.org/sn5jr/)
-
----
-
 ## Thesis
 
 **Dias, Filipe S.**. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link](https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
