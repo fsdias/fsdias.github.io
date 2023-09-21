@@ -18,7 +18,7 @@ website:
       - text: "Publications"
         href: publications/index_publications.qmd
       - text: "CV"
-        href: cv/index_cv.qmd
+        href: cv/index.qmd
       - text: "Knowledge base"
         href: knowledge_base/index_kb.qmd
         
