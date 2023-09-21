@@ -52,7 +52,7 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 ---
 
-## Presentations/Talks
+## Selected talks
 
 **Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “Analysing the distance decay of community similarity in river networks using Bayesian methods.” 20º Encontro Nacional de Ecologia, December 1-4, Escola Superior Agrária Ponte de Lima. [Slides](https://fsdias.github.io/presentations/speco21/)
 
