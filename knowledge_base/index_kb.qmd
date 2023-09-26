@@ -16,20 +16,20 @@ title: Knowledge base
 ## Courses and Tutorials
 
 #### GIS
-[Introduction to PostGIS (ex Boundless)](https://postgis.net/workshops/postgis-intro/)
+[Introduction to PostGIS (originally from Boundless)](https://postgis.net/workshops/postgis-intro/)
 
 [Introduction to Spatial Databases with PostGIS and QGIS 3](https://www.udemy.com/course/introduction-to-spatial-databases-with-postgis-and-qgis/)
 
 
 #### Data management
 
-[Data Management with SQL for Ecologists](https://datacarpentry.org/sql-ecology-lesson/)
+[Data Carpentry's Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
 
 [An Ecologist's Introduction to Transitioning into Data Science - SQL Tutorial](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)
 
 [(web) Scraping London Marathon data with {rvest}](https://nrennie.rbind.io/blog/web-scraping-rvest-london-marathon/)
 
-[Exploring visualizations with metal bands data (webscraping + data viz](https://gorinsimon.github.io/posts/metal_viz/metal_viz.html)
+[Exploring visualizations with metal bands data (webscraping + data viz)](https://gorinsimon.github.io/posts/metal_viz/metal_viz.html)
 
 #### Statistics
 
