@@ -20,6 +20,11 @@ title: Knowledge base
 
 [Introduction to Spatial Databases with PostGIS and QGIS 3](https://www.udemy.com/course/introduction-to-spatial-databases-with-postgis-and-qgis/)
 
+#### Data analysis
+
+[Marginalized occupancy models: a how-to for JAGS and Stan](https://jsocolar.github.io/marginalizedOccupancy/)
+
+[Advanced Raster Analysis (Random forest)](https://geoscripting-wur.github.io/AdvancedRasterAnalysis/)
 
 #### Data management
 
