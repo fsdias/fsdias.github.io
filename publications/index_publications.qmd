@@ -4,6 +4,9 @@ title: Publications
 
 ## Journal articles
 
+Acácio, Vanda, *Filipe S. Dias*, Mário Ferreira, Patricia M. Rodríguez-González, Hugo Matias, and Maria C. Caldeira. “Effects of Shrub Species Dominance and Diversity on Oak Seedling Survival in Mediterranean Woodlands: The Interplay of Abiotic Conditions and Plant Traits.” Forest Ecology and Management 555: 121713. https://doi.org/10.1016/j.foreco.2024.121713.
+
+
 **Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “BetaBayes—A Bayesian Approach for Comparing Ecological Communities.” Diversity 14, no. 10 (October 2022): 858. [https://www.mdpi.com/1424-2818/14/10/858/htm](https://www.mdpi.com/1424-2818/14/10/858/htm)
 
 Pabst, Rebecca, **Filipe S. Dias**, Luís Borda-de-Água, Patricia María Rodríguez-González, and César Capinha. “Assessing and Predicting the Distribution of Riparian Invasive Plants in Continental Portugal.” Frontiers in Ecology and Evolution 10 (May 6, 2022): 875578. [https://doi.org/10.3389/fevo.2022.875578](https://doi.org/10.3389/fevo.2022.875578)
