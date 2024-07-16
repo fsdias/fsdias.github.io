@@ -4,7 +4,13 @@ title: Publications
 
 ## Journal articles
 
-Acácio, Vanda, **Filipe S. Dias**, Mário Ferreira, Patricia M. Rodríguez-González, Hugo Matias, and Maria C. Caldeira. “Effects of Shrub Species Dominance and Diversity on Oak Seedling Survival in Mediterranean Woodlands: The Interplay of Abiotic Conditions and Plant Traits.” Forest Ecology and Management 555: 121713. https://doi.org/10.1016/j.foreco.2024.121713.
+
+Mexia, Teresa, Maria Conceição Caldeira, Xavier Lecomte, *Filipe S. Dias*, Margarida Tomé, Leónia Nunes, and Miguel Nuno Bugalho. “Is Forest Certification Mitigating Oak Decline in Mediterranean Open Woodlands?” Forest Ecology and Management 568 (September 15, 2024): 122105. [https://doi.org/10.1016/j.foreco.2024.122105](https://doi.org/10.1016/j.foreco.2024.122105).
+
+
+Lopes, L. F., **Filipe S. Dias**, P. M. Fernandes, and V. Acácio. “A Remote Sensing Assessment of Oak Forest Recovery after Postfire Restoration.” European Journal of Forest Research, March 8, 2024. [https://doi.org/10.1007/s10342-024-01667-z](https://doi.org/10.1007/s10342-024-01667-z)
+
+Acácio, Vanda, **Filipe S. Dias**, Mário Ferreira, Patricia M. Rodríguez-González, Hugo Matias, and Maria C. Caldeira. “Effects of Shrub Species Dominance and Diversity on Oak Seedling Survival in Mediterranean Woodlands: The Interplay of Abiotic Conditions and Plant Traits.” Forest Ecology and Management 555: 121713. [https://doi.org/10.1016/j.foreco.2024.121713](https://doi.org/10.1016/j.foreco.2024.121713)
 
 
 **Dias, Filipe S.**, Michael Betancourt, Patricia María Rodríguez-González, and Luís Borda-de-Água. “BetaBayes—A Bayesian Approach for Comparing Ecological Communities.” Diversity 14, no. 10 (October 2022): 858. [https://www.mdpi.com/1424-2818/14/10/858/htm](https://www.mdpi.com/1424-2818/14/10/858/htm)
@@ -37,6 +43,18 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 ---
 
+## Reports
+
+Moreira, Francisco, *Filipe S. Dias*, Jeremy Dertien, Ana Ceia Hasse, Luis Borda-de-Água, Silvia Carvalho, Miguel Porto, et al. “Guidelines for Connectivity Conservation and Planning in Europe.” ARPHA Preprints 5 (June 6, 2024): e129021. [https://doi.org/10.3897/arphapreprints.e129021](https://doi.org/10.3897/arphapreprints.e129021).
+
+
+Bugalho, Miguel N., **Filipe S. Dias**, and Rui Barreira. “Incêndios Rurais Em Portugal: Até Quando Deixaremos a Paisagem Arder?” Lisboa, Portugal: WWF Mediterrâneo (WWF MED)/Centro de Ecologia Aplicada Prof. Baeta Neves do Instituto Superior de Agronomia (CEABN/ISA), 2017. [Link](https://wwfeu.awsassets.panda.org/downloads/incendios_relatorio_vfinal_1.pdf)
+
+
+Branco, Orlando, Miguel Nuno Bugalho, Luís Neves Silva, Rui Barreira, Pedro Vaz, and **Filipe S. Dias**. “Hotspot Areas for Biodiversity and Ecosystem Services in Montado.” Lisbon: WWF Mediterranean – Portugal/Centre for Applied Ecology Prof. Baeta Neves(CEABN), 2010. [Link](http://awsassets.panda.org/downloads/habeas_report2010.pdf)
+
+---
+
 ## Thesis
 
 **Dias, Filipe S.**. “The Role of Forest Certification for the Conservation of Biodiversity and Sustainability of Cork Oak Woodlands.” Instituto Superior de Agronomia, Universidade de Lisboa, 2015. PhD Thesis [Link](https://www.repository.utl.pt/handle/10400.5/12021?locale=en)
@@ -51,12 +69,6 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 **Dias, Filipe S.**, "How to Manage and Process Big Datasets in R - an Example with eBird Data", Journal Club, March 23th [Slides](https://fsdias.github.io/presentations/bigdata/)
 
---- 
+ 
 
-## Reports
-
-Bugalho, Miguel N., **Filipe S. Dias**, and Rui Barreira. “Incêndios Rurais Em Portugal: Até Quando Deixaremos a Paisagem Arder?” Lisboa, Portugal: WWF Mediterrâneo (WWF MED)/Centro de Ecologia Aplicada Prof. Baeta Neves do Instituto Superior de Agronomia (CEABN/ISA), 2017. [Link](https://wwfeu.awsassets.panda.org/downloads/incendios_relatorio_vfinal_1.pdf)
-
-
-Branco, Orlando, Miguel Nuno Bugalho, Luís Neves Silva, Rui Barreira, Pedro Vaz, and **Filipe S. Dias**. “Hotspot Areas for Biodiversity and Ecosystem Services in Montado.” Lisbon: WWF Mediterranean – Portugal/Centre for Applied Ecology Prof. Baeta Neves(CEABN), 2010. [Link](http://awsassets.panda.org/downloads/habeas_report2010.pdf)
 
