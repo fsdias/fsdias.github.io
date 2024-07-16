@@ -5,7 +5,7 @@ title: Publications
 ## Journal articles
 
 
-Mexia, Teresa, Maria Conceição Caldeira, Xavier Lecomte, *Filipe S. Dias*, Margarida Tomé, Leónia Nunes, and Miguel Nuno Bugalho. “Is Forest Certification Mitigating Oak Decline in Mediterranean Open Woodlands?” Forest Ecology and Management 568 (September 15, 2024): 122105. [https://doi.org/10.1016/j.foreco.2024.122105](https://doi.org/10.1016/j.foreco.2024.122105).
+Mexia, Teresa, Maria Conceição Caldeira, Xavier Lecomte, **Filipe S. Dias**, Margarida Tomé, Leónia Nunes, and Miguel Nuno Bugalho. “Is Forest Certification Mitigating Oak Decline in Mediterranean Open Woodlands?” Forest Ecology and Management 568 (September 15, 2024): 122105. [https://doi.org/10.1016/j.foreco.2024.122105](https://doi.org/10.1016/j.foreco.2024.122105).
 
 
 Lopes, L. F., **Filipe S. Dias**, P. M. Fernandes, and V. Acácio. “A Remote Sensing Assessment of Oak Forest Recovery after Postfire Restoration.” European Journal of Forest Research, March 8, 2024. [https://doi.org/10.1007/s10342-024-01667-z](https://doi.org/10.1007/s10342-024-01667-z)
@@ -45,7 +45,7 @@ Acácio, Vanda, **Filipe S. Dias**, Filipe X. Catry, Marta Rocha, and Francisco 
 
 ## Reports
 
-Moreira, Francisco, *Filipe S. Dias*, Jeremy Dertien, Ana Ceia Hasse, Luis Borda-de-Água, Silvia Carvalho, Miguel Porto, et al. “Guidelines for Connectivity Conservation and Planning in Europe.” ARPHA Preprints 5 (June 6, 2024): e129021. [https://doi.org/10.3897/arphapreprints.e129021](https://doi.org/10.3897/arphapreprints.e129021).
+Moreira, Francisco, **Filipe S. Dias**, Jeremy Dertien, Ana Ceia Hasse, Luis Borda-de-Água, Silvia Carvalho, Miguel Porto, et al. “Guidelines for Connectivity Conservation and Planning in Europe.” ARPHA Preprints 5 (June 6, 2024): e129021. [https://doi.org/10.3897/arphapreprints.e129021](https://doi.org/10.3897/arphapreprints.e129021).
 
 
 Bugalho, Miguel N., **Filipe S. Dias**, and Rui Barreira. “Incêndios Rurais Em Portugal: Até Quando Deixaremos a Paisagem Arder?” Lisboa, Portugal: WWF Mediterrâneo (WWF MED)/Centro de Ecologia Aplicada Prof. Baeta Neves do Instituto Superior de Agronomia (CEABN/ISA), 2017. [Link](https://wwfeu.awsassets.panda.org/downloads/incendios_relatorio_vfinal_1.pdf)
