@@ -9,7 +9,7 @@ title: Knowledge base
 
 [Notes from a data witch: A data science blog by Danielle Navarro](https://blog.djnavarro.net/)
 
-[Andrea Gabrio's blog and tutorials](https://agabrioblog.onrender.com/post/)
+[Andrea Gabrio's blog and tutorials](https://angabrio.github.io/posts.html)
 
 ---
 
@@ -27,6 +27,10 @@ title: Knowledge base
 [Advanced Raster Analysis (Random forest)](https://geoscripting-wur.github.io/AdvancedRasterAnalysis/)
 
 #### Data management
+
+[SQLBOLT - Learn SQL with simples interactive exercises](https://sqlbolt.com/)
+
+[SQL Tutorial from Mode Analytics](https://mode.com/sql-tutorial)
 
 [Data Carpentry's Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
 
