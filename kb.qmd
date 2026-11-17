@@ -1,0 +1,69 @@
+---
+title: Knowledge base
+---
+
+
+## Interesting blogs
+
+[Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
+
+[Notes from a data witch: A data science blog by Danielle Navarro](https://blog.djnavarro.net/)
+
+[Andrea Gabrio's blog and tutorials](https://angabrio.github.io/posts.html)
+
+---
+
+## Courses and Tutorials
+
+#### GIS
+[Introduction to PostGIS (originally from Boundless)](https://postgis.net/workshops/postgis-intro/)
+
+[Introduction to Spatial Databases with PostGIS and QGIS 3](https://www.udemy.com/course/introduction-to-spatial-databases-with-postgis-and-qgis/)
+
+#### Data analysis
+
+[Marginalized occupancy models: a how-to for JAGS and Stan](https://jsocolar.github.io/marginalizedOccupancy/)
+
+[Advanced Raster Analysis (Random forest)](https://geoscripting-wur.github.io/AdvancedRasterAnalysis/)
+
+[Bayesian analysis of capture-recapture data with hidden Markov models: Theory and case studies in R and NIMBLE](https://oliviergimenez.github.io/banana-book/)
+
+[Marginalising discrete variables in ecological models](https://quantecol.com.au/blog/marginalisation.html)
+
+#### Data management and visualization
+
+[The R Graph Gallery](https://r-graph-gallery.com/)
+
+[SQLBOLT - Learn SQL with simples interactive exercises](https://sqlbolt.com/)
+
+[SQL Tutorial from Mode Analytics](https://mode.com/sql-tutorial)
+
+[Data Carpentry's Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop)
+
+[An Ecologist's Introduction to Transitioning into Data Science - SQL Tutorial](https://sbreitbart.github.io/DataSci_for_Ecologists/SQL_intro/SQL_intro.html)
+
+[(web) Scraping London Marathon data with {rvest}](https://nrennie.rbind.io/blog/web-scraping-rvest-london-marathon/)
+
+[Exploring visualizations with metal bands data (webscraping + data viz)](https://gorinsimon.github.io/posts/metal_viz/metal_viz.html)
+
+[Radar Plots Must Die](https://www.pymc-labs.com/blog-posts/radar-plots-must-die)
+
+#### Statistics
+
+[Statistical population modelling for census support (Bayesian statistics)](https://wpgp.github.io/bottom-up-tutorial/)
+
+---
+
+## Software for making plots and presentations 
+
+[Datawrapper: Create charts, maps, and tables](https://www.datawrapper.de/)
+
+[reveal.js](https://revealjs.com/)
+
+---
+
+### Stats software with a GUI
+
+[Jasp](https://jasp-stats.org/)
+
+[jamovi](https://www.jamovi.org/)

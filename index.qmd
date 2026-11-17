@@ -1,0 +1,22 @@
+---
+title: "Filipe Dias"
+subtitle: "Ecological Data Analyst"
+image: oaks.png
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/fsdias8/
+    - icon: envelope
+      text: Email
+      href: "mailto:fsdias@protonmail.com"
+    - icon: rss
+      text: Substack
+      href: https://fsdias.substack.com/
+---
+
+**Researcher & Consulting Data Analyst** – My research examines how management practices and climate change affect Mediterranean oak woodlands, producing peer‑reviewed publications that guide regional and national conservation strategies. In parallel, I collaborate with NGOs and select private firms to develop data‑driven solutions for conservation and land‑use planning.
+
+Currently working at [Centro de Estudos Florestais](https://www.isa.ulisboa.pt/cef/en/) as a Researcher on the project [Satellite Information for Resilience Monitoring and Early warning of Ecosystem tipping points (SIRENE)]([https://climate.esa.int/de/tipping-points-research/about-sirene/), funded by the [European Space Agency (ESA)](https://www.esa.int), which has the overarching goal of improving the detection and prediction of climate‑driven tipping points in terrestrial ecosystems, especially in vulnerable regions such as tropical rainforests, boreal forests, and drylands.
+

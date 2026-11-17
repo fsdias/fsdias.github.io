@@ -1,0 +1,31 @@
+---
+title: "Identification of Priority Areas for Ecological Restoration in Portugal"
+image: "fire.png"
+categories:
+  - Ecological restoration
+  - QGIS
+  - PostGIS
+  - R
+  - GDAL
+---
+
+## Re-Store Portugal — Priority Areas for Ecological Restoration
+
+### Goal
+I was part of a team hired by WWF Portugal to identify **priority areas for ecological restoration** in mainland Portugal in support of the [Re-Store Portugal](https://restoreportugal.wwf.pt/) initiative.
+
+### What we did
+- Built a comprehensive **geospatial database** spanning habitats, species, environmental pressures, and socio-economic factors.
+- Applied **multi-criteria analysis** combining ecological, socio-economic, legal, and strategic indicators.
+- Screened dozens of candidate areas across **terrestrial, freshwater, and marine** systems, prioritizing those with the highest conservation value and feasibility.
+- Produced **project fiches** for each selected area with conservation attributes, key pressures, recommended interventions, and indicative restoration budgets.
+
+### Outputs
+We identified **nine priority areas** across land, sea, and freshwater. These include critical habitats such as **coastal wetlands, seagrass meadows, rivers, lagoons, and native forests**, all facing significant pressure.
+
+👉 [Read the executive summary (PDF)](https://www.wwf.pt/files/uploads/2025/10/AF_WEB_SumarioExecutivo_Re-StorePortugal_WWF_out2025.pdf)
+
+### Impact
+This work provides a **replicable model** for prioritizing restoration in Portugal. The approach equips WWF Portugal to mobilize partners, secure funding, and guide implementation of actions that deliver **measurable ecological and social benefits**.
+
+WWF Portugal plans to invest **€1.8 million** by 2030 in three of the selected areas: **Parque Nacional da Peneda-Gerês, Serra do Caldeirão,** and **Estuário do Tejo**.

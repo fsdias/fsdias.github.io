@@ -1,0 +1,11 @@
+---
+title: "Curriculum Vitae"
+format: html
+css: pdf-embed.css
+---
+
+<div class="pdf-container">
+  <iframe src="cv_academic.pdf" class="pdf-iframe">
+    <p>Your browser does not support PDFs. <a href="cv_academic.pdf">Download the PDF</a>.</p>
+  </iframe>
+</div>

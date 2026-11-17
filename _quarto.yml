@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Academic CV
+        href: cv.qmd
+      - text: Data Analyst CV
+        href: resume.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Portfolio
+        href: portfolio/index.qmd
+      - text: Knowledge Base
+        href: kb.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

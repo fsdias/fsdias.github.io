@@ -1,0 +1,16 @@
+# Quarto build output and cache
+/.quarto/
+/_site/
+
+# RStudio / R local files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.RData
+
+# Posit Connect deployment records
+rsconnect/
+
+# Old leftovers
+projects.zip

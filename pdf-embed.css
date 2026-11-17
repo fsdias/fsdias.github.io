@@ -1,0 +1,14 @@
+.pdf-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 125%;
+  min-height: 800px;
+}
+
+.pdf-iframe {
+  width: 80%; /* Adjust width as needed */
+  height: 800px;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds a nice shadow */
+}
