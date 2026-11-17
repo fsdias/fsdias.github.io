@@ -14,3 +14,5 @@ rsconnect/
 
 # Old leftovers
 projects.zip
+
+**/*.quarto_ipynb
